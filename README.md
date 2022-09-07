@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### I'm Rosemary,
-- 🏢 I'm currently working as a **Python Developer Intern** at CGG
-- 🔭 I’m currently working on an **options trading model in C++**
-- 🌱 I’m currently learning all about **cloud native applications**
+- 🏢 I'm currently working as a **Python Developer Intern** at CGG.
+- 🔭 I’m currently working on a project in **C++**.
+- 🌱 I’m currently learning all about **cloud native applications**.
 - ⚡ Check out my recent projects pinned below, feedback is appreciated!
 - 📫 You can reach me here: <a href="https://linkedin.com/in/rosemary-ellery"><img style='height:20px;' src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
