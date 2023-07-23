@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Rosemary,
-- 🏢 I'm currently working as a **Python Developer Intern** at CGG.
+- 🏢 I'm currently working as a **Software Development Engineer Intern** at **Amazon**.
 - 🌱 I’m currently learning all about **reinforcement learning**.
 - 🔭 Check out my <a href="https://rosemaryellery.github.io/" target="_blank">**portfolio website**</a>.
 - ⚡ See my recent projects pinned below, feedback is appreciated!
