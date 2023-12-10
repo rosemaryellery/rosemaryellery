@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Rosemary,
-- 🏢 I'm currently working as a **Software Development Engineer Intern** at **Amazon**.
-- 🌱 I’m currently learning all about **reinforcement learning**.
+- 🏢 This Summer I worked as a **Software Development Engineer Intern** at **Amazon**.
+- 🌱 I’m currently learning all about **reinforcement learning, operating systems, and computer networking**.
 - 🔭 Check out my <a href="https://rosemaryellery.github.io/" target="_blank">**portfolio website**</a>.
 - ⚡ See my recent projects pinned below, feedback is appreciated!
 - 📫 You can reach me here: <a href="https://linkedin.com/in/rosemary-ellery" target="_blank"><img style='height:20px;' src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
